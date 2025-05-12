@@ -1,7 +1,6 @@
 # Sistema de Gerenciamento da Defesa Civil
 
-Projeto desenvolvido como requisito para a disciplina de **Programação Orientada a Objetos** no curso de Ciência da Computação da Universidade Católica de Brasília (UCB), sob orientação do professor **Adam Smith Gontijo Brito de Assis**.
-
+Projeto desenvolvido como requisito para a disciplina de **Programação Orientada a Objetos** no curso de Ciência da Computação.
 ## 🧩 Descrição
 
 Trata-se de uma aplicação **Full Stack** que visa auxiliar a Defesa Civil na gestão de informações de **famílias em situação de risco** e das **emergências** enfrentadas por uma cidade do sul do Brasil. A aplicação permite:
